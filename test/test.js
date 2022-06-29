@@ -1,3 +1,3 @@
 const ilv = require('../index.js');
 
-ilv('...');
+ilv('C:/Users/Ruslan/Downloads/icons', './media');
